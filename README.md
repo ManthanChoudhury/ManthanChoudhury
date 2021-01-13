@@ -29,14 +29,25 @@
 
 - 🔭 I’m currently purshing my B.E in Electronics and Telecommunication.
 - 🌱 I’m currently learning Web Development and Cloud Computing.
-- 👯 I’m looking to collaborate on 
-- 🤔 I’m looking for help with ...
+- 🤔 I’m looking for help with ML.
 - 💬 Ask me about Cloud Computing and Flutter.
 - 📫 How to reach me: [Linkedin - @Manthan Choudhury](https://www.linkedin.com/in/manthan-choudhury/).
 - 😄 Pronouns: He/His.
-- ⚡ Fun fact: I spend almost 12 hours listening songs everyday.
+- ⚡ Fun fact: I spend almost 2-4 hours Coding everyday.
 
 ![ViewCount](https://views.whatilearened.today/views/github/ManthanChoudhury/ManthanChoudhury.svg)
+
+<br/>
+<br/>
+### Languages and Tools:
+
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][webdevplaylist]
+[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][webdevplaylist]
+[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][cssplaylist]
+[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][jsplaylist]
+[<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][webdevplaylist]
+[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][webdevplaylist]
+[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][webdevplaylist]
 
 <br/>
 <br/>
