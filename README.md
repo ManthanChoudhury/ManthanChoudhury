@@ -64,3 +64,20 @@
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ManthanChoudhury&show_icons=true&theme=light&line_height=27" alt="Manthan's github stats"/>
 </a>
 
+### 📕 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+- [Automate blogsite using DOCKER,WORDPRESS,MY SQL](https://github.com/ManthanChoudhury/blogsite)
+- [Automation using terraform for AWS cloud](https://github.com/ManthanChoudhury/multicloud)
+- [Dart tutorials for beginner](https://github.com/ManthanChoudhury/dart)
+- [automation_using_terraform , AWS ,kubernetes](https://github.com/ManthanChoudhury/automation_using_terraform_task6)
+- [Deno 1.0 Released! (Easy) REST API Example](https://dev.to/codestackr/deno-1-0-released-easy-rest-api-example-2fbl)
+<!-- BLOG-POST-LIST:END -->
+
+### 🎮 Game Made
+
+<!-- Game-LIST:START -->
+- [Mario Game](https://manthanchoudhury.github.io/Mario/)
+- [Snake Game](https://manthanchoudhury.github.io/Snake_game_project/)
+- [Covid Fighter](https://manthanchoudhury.github.io/covid_fighter/)
+<!--Game-LIST:END -->
