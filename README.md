@@ -2,7 +2,27 @@
 
 <img height=200 align="right" alt="GIF" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif"/>
 
-Here are some ideas to get you started:
+<a href="https://twitter.com/Manthan">
+  <img align="left" alt="Account xx Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/manthan-choudhury/">
+  <img align="left" alt="Manthan's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://github.com/ManthanChoudhury">
+  <img align="left" alt="Manthan's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
+<a href="https://t.me/soul_coder007">
+  <img align="left" alt="Manthan's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+</a>
+<a href="https://www.instagram.com/r.i.p_leo007/">
+  <img align="left" alt="Manthan's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<a href="https://www.facebook.com/manthan.choudhury.9">
+  <img align="left" alt="Manthan's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+</a>
+<a href="https://stackoverflow.com/users/13291785/manthan-choudhury">
+  <img align="left" alt="Manthan's Stackoverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />
+</a>
 
 - 🔭 I’m currently purshing my B.E in Electronics and Telecommunication.
 - 🌱 I’m currently learning Web Development and Cloud Computing.
