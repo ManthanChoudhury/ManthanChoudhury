@@ -37,3 +37,15 @@
 - ⚡ Fun fact: I spend almost 12 hours listening songs everyday.
 
 ![ViewCount](https://views.whatilearened.today/views/github/ManthanChoudhury/ManthanChoudhury.svg)
+
+<br/>
+<br/>
+
+<a href="https://github.com/ManthanChoudhury">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManthanChoudhury&theme=light&hide_langs_below=1" />
+</a>
+
+<a href="https://github.com/ManthanChoudhury">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=ManthanChoudhury&show_icons=true&theme=light&line_height=27" alt="Manthan's github stats"/>
+</a>
+
