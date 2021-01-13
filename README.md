@@ -36,7 +36,6 @@
 
 ![ViewCount](https://views.whatilearened.today/views/github/ManthanChoudhury/ManthanChoudhury.svg)
 
-<br/>
 
 ### Spotify Playing 🎧
 
