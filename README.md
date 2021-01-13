@@ -74,7 +74,7 @@
 - [Automation using terraform for AWS cloud](https://github.com/ManthanChoudhury/multicloud)
 - [Dart tutorials for beginner](https://github.com/ManthanChoudhury/dart)
 - [automation_using_terraform , AWS ,kubernetes](https://github.com/ManthanChoudhury/automation_using_terraform_task6)
-- [Deno 1.0 Released! (Easy) REST API Example](https://dev.to/codestackr/deno-1-0-released-easy-rest-api-example-2fbl)
+
 <!-- BLOG-POST-LIST:END -->
 
 ### 🎮 Game Made
