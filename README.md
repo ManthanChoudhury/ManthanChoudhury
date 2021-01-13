@@ -24,6 +24,9 @@
   <img align="left" alt="Manthan's Stackoverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />
 </a>
 
+<br/>
+<br/>
+
 - 🔭 I’m currently purshing my B.E in Electronics and Telecommunication.
 - 🌱 I’m currently learning Web Development and Cloud Computing.
 - 👯 I’m looking to collaborate on 
