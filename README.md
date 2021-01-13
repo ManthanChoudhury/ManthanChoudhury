@@ -25,7 +25,6 @@
 </a>
 
 <br/>
-<br/>
 
 - 🔭 I’m currently purshing my B.E in Electronics and Telecommunication.
 - 🌱 I’m currently learning Web Development and Cloud Computing.
