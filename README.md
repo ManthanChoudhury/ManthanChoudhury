@@ -84,4 +84,5 @@
 - [Snake Game](https://manthanchoudhury.github.io/Snake_game_project/)
 - [Covid Fighter](https://manthanchoudhury.github.io/covid_fighter/)
 - [Spin-Wheel](https://manthanchoudhury.github.io/Game_dev_spinwheelgames/)
+- [Sudoku-Self-Solving](https://manthanchoudhury.github.io/Sudoku_game_solver/)
 <!--Game-LIST:End -->
