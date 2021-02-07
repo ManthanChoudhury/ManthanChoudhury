@@ -83,4 +83,5 @@
 - [Mario Game](https://manthanchoudhury.github.io/Mario/)
 - [Snake Game](https://manthanchoudhury.github.io/Snake_game_project/)
 - [Covid Fighter](https://manthanchoudhury.github.io/covid_fighter/)
+- [Spin-wheel game Page](https://manthanchoudhury.github.io/Game_dev_spinwheelgames/)
 <!--Game-LIST:End -->
