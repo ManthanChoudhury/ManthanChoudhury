@@ -54,6 +54,9 @@
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code> 
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terraform/terraform.png"></code> 
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ansible/ansible.png"></code> 
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
 
 
 <br/>
@@ -64,7 +67,7 @@
 </a>
 
 <a href="https://github.com/ManthanChoudhury">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=ManthanChoudhury&show_icons=true&theme=light&line_height=27" alt="Manthan's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=manthanchoudhury&show_icons=true&theme=radical" alt="Manthan's github stats"/>
 </a>
 
 ### 📕 Latest Blog Posts
