@@ -35,14 +35,9 @@
 - 💬 Ask me about Cloud Computing and Flutter.
 - 📫 How to reach me: [Linkedin - @Manthan Choudhury](https://www.linkedin.com/in/manthan-choudhury/).
 - 😄 Pronouns: He/His.
-- ⚡ Fun fact: I spend almost 2-4 hours Coding everyday.
 
 ![ViewCount](https://views.whatilearened.today/views/github/ManthanChoudhury/ManthanChoudhury.svg)
 
-<!-- Spotify -->
-### Spotify Playing 🎧
-
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
 
 ### Languages and Tools:
 
@@ -65,10 +60,14 @@
 <a href="https://github.com/ManthanChoudhury">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManthanChoudhury&theme=dark&hide_langs_below=1" />
 </a>
-
+<br>
 <a href="https://github.com/ManthanChoudhury">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=manthanchoudhury&show_icons=true&theme=radical" alt="Manthan's github stats"/>
 </a>
+ <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ManthanChoudhury&theme=tokyonight" />
+ 
+ <br>  <br>
+  <img width=900 src="https://github-profile-trophy.vercel.app/?username=ManthanChoudhury&column=7&no-frame=true"/>
 
 ### 📕 Latest Blog Posts
 
