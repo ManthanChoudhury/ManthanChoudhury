@@ -36,10 +36,7 @@
 <br/>
 
 
-- 🔭 I’m currently purshing my B.E in Electronics and Telecommunication.
-- 🌱 I’m currently learning Web Development and Cloud Computing.
-- 🤔 I’m looking for help with ML.
-- 💬 Ask me about Cloud Computing and Flutter.
+- 🔭 I’m currently Working as Devops in JIO (Jio Cloud ).
 - 📫 How to reach me: [Linkedin - @Manthan Choudhury](https://www.linkedin.com/in/manthan-choudhury/).
 - 😄 Pronouns: He/His.
 
