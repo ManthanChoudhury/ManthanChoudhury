@@ -36,9 +36,30 @@
 <br/>
 
 
-- 🔭 I’m currently Working as Devops in JIO (Jio Cloud ).
-- 📫 How to reach me: [Linkedin - @Manthan Choudhury](https://www.linkedin.com/in/manthan-choudhury/).
-- 😄 Pronouns: He/His.
+# 🚀 DevOps Engineer | Cloud Enthusiast | Automation Advocate
+
+Welcome to my GitHub profile! I'm a passionate DevOps Engineer with a focus on creating scalable, secure, and high-performing cloud solutions. With over two years of hands-on experience in cloud infrastructure and DevOps practices, I thrive on solving complex challenges and optimizing workflows through automation.
+
+## 🔧 What I Do:
+- **Cloud Architecture:** Designing and implementing cloud solutions using AWS, Azure, and OpenStack.
+- **Containerization & Orchestration:** Leveraging Docker, Kubernetes, and Rancher to build resilient and scalable systems.
+- **CI/CD Pipelines:** Building and maintaining automated pipelines with tools like Jenkins and GitHub Actions to ensure smooth and continuous delivery.
+- **Infrastructure as Code (IaC):** Utilizing Terraform to manage and provision infrastructure efficiently and consistently.
+- **Configuration Management:** Automating system configurations with Ansible for consistency and reliability.
+- **Monitoring & Performance:** Monitoring system health and performance with Prometheus and Grafana, ensuring high availability and optimal performance.
+
+## 💡 What Drives Me:
+- **Automation:** Passionate about reducing manual processes through scripting and automation, saving time and improving efficiency.
+- **Continuous Learning:** Always exploring new technologies and best practices to stay ahead in the ever-evolving DevOps landscape.
+- **Collaboration:** Believer in the power of teamwork and open source, contributing to projects that drive innovation and community growth.
+
+## 👨‍💻 What You’ll Find Here:
+- **Projects:** Repositories showcasing my work on cloud deployments, automation scripts, CI/CD setups, and more.
+- **Collaborations:** Contributions to open-source projects and collaborations with fellow developers and engineers.
+- **Learning:** Documentation, tutorials, and guides based on my experiences and lessons learned in the field.
+
+Let’s connect and collaborate to build something amazing together! 🌐
+
 
 ![ViewCount](https://views.whatilearened.today/views/github/ManthanChoudhury/ManthanChoudhury.svg)
 
